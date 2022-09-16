@@ -7,7 +7,7 @@ By Ga-yana :speaker: :control_knobs: 	:studio_microphone:
 
 ## Static landing page of RODE.com website using Tailwind CSS.
 
-### Click [here]() to see it live
+### Click [here](https://rode-evolved.netlify.app/) to see it live
 
 ![Homepage](./Images/Screenshot%202022-09-16%20at%2010.03.59%20AM.png)
 ![Homepage](./Images/Screenshot%202022-09-16%20at%2010.04.14%20AM.png)
